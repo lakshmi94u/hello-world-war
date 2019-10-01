@@ -24,12 +24,7 @@
 				<version>2.1.1</version>
 			</plugin>
 		</plugins>
-		<distributionManagement>
-  <snapshotRepository>
-    <id>nexus</id>
-    <url>http://3.85.29.237:8081/nexus/content/repositories/snapshots/</url>
-  </snapshotRepository>
-</distributionManagement>
+
 	</build>
 
 </project>
